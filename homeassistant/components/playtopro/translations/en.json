@@ -1,0 +1,32 @@
+{
+    "config": {
+        "error": {
+            "already_configured_device": "Device is already configured",
+            "invalid_ip_address": "Invalid IP address."
+        },
+        "step": {
+            "user": {
+                "data": {
+                    "host": "Host",
+                    "port": "Port",
+                    "serial": "Serial Number"
+                },
+                "title": "Add your lichen device to Home Assistant"
+            }
+        }
+    },
+    "options": {
+        "abort": {
+            "invalid_ip_address": "Invalid IP address."
+        },
+        "step": {
+            "init": {
+                "data": {
+                    "host": "Host",
+                    "port": "Port",
+                    "serial": "Serial Number"
+                }
+            }
+        }
+    }
+}
